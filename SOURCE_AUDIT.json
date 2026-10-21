@@ -1,0 +1,19 @@
+{
+  "source_html": "भारत लेयर मैप (3).html",
+  "html_bytes": 640684,
+  "markdown_bytes": 252,
+  "script_tags": 1,
+  "external_https_references": 0,
+  "fetch_calls": 0,
+  "local_storage_mentions": 2,
+  "important_features_found": {
+    "layer_selector": true,
+    "search": true,
+    "zoom_in": true,
+    "zoom_out": true,
+    "quiz": true,
+    "state_quiz": true,
+    "state_boundary_toggle": true,
+    "district_boundary_toggle": true
+  }
+}
